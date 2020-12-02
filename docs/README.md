@@ -4,7 +4,7 @@ Cardano Security Working Group (CSWG) is a collaborative group compromised of cy
 
 The purpose of the CSWG is to:
 - Produce educational material, such as this Best Practices Guide
-- Educate SPOs about the evolving thread landscape and raise awareness of cybersecurity risks
+- Educate SPOs about the evolving threat landscape and raise awareness of cybersecurity risks
 - Identify and promote the proper application of technical security controls
 
 Please note that we intentionally try to keep end-user/delegator related queries in the [Support FAQ](https://cardano-community.github.io/support-faq/). None of the content created here is endorsed/sponsored by any of the three bootstrap entities within Cardano. All recommendations are general in nature and do not constitute specific advice.
