@@ -89,7 +89,7 @@
                 .replace('cdn.jsdelivr.net/gh', 'github.com')
                 .replace('@master', '/blob/master')
             } else {
-              url = 'https://github.com/cardano-community/cardano-spo-security/blob/master/docs/' + vm.route.file
+              url = 'https://github.com/cardano-community/cswg/blob/master/docs/' + vm.route.file
             }
             var editHtml = '[:memo: Edit](' + url + ')\n'
             editHtml = ''
@@ -103,7 +103,7 @@
       requestHeaders: {
         'Set-Cookie': 'cross-site-cookie=X-OpenDNS-Session;SameSite=None; Secure'
       },
-      repo: 'https://github.com/cardano-community/cardano-spo-security/tree/master',
+      repo: 'https://github.com/cardano-community/cswg/tree/master',
       subMaxLevel: 4,
       search: {
           depth      : 5,
