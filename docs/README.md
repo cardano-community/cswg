@@ -1,6 +1,6 @@
 ## Cardano Security Working Group (CSWG)
 
-Cardano Security Working Group (CSWG) is a collaborative group compromised of cybersecurity professionals from the Cardano SPO community.
+Cardano Security Working Group (CSWG) is a collaborative group comprised of cybersecurity professionals from the Cardano SPO community.
 
 The purpose of the CSWG is to:
 - Produce educational material, such as this Best Practices Guide
